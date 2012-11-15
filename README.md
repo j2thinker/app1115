@@ -1,4 +1,4 @@
-gitest
-======
+application for merchant
+==========================
 
-study git version control
+developing version control
